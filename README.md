@@ -1,7 +1,6 @@
 # ShoesMe
 
-**The background of the program
-**
+**The background of the program**
 
 Welcome to our shoe site! This project was developed by a team consisting of myself and two other developers. Our site showcases the latest and most popular shoes on the market, along with links to leading online stores where they can be purchased.
 
@@ -11,7 +10,7 @@ Please note that this website is a demo and is not updated in real time. The inf
 
 One unique feature of our site is the shoe lottery page, which allows users to register for a chance to win a free pair of shoes. To participate, users simply fill out a form and submit it to our secure cPanel server.
 
-to us. Thank you for visiting!
+Thank you for visiting!
 
 **Screens**
 
