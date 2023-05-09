@@ -1,0 +1,162 @@
+.title {
+  font-family: 'Jockey One', 'Roboto Condensed', 'League Gothic', sans-serif;
+  font-size: 50px;
+  text-align: center;
+  background-color: #212529;
+  color: white;
+  display: inline-block;
+}
+
+.header {
+  background-color: #212529;
+  display: block;
+  text-align: center;
+}
+
+.logo-snks {
+  width: 100px;
+  display: inline-block;
+}
+
+.navbar-nav {
+  margin-left: auto;
+  margin-right: auto;
+  width: 72%;
+  font-size: 20px;
+  font-family: 'Jockey One', 'Roboto Condensed', 'League Gothic', sans-serif;
+}
+
+.nav-item {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.navbar {
+  background-color: #212529;
+}
+
+.title-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.yeezy-video{
+  /* display: inline; */
+  margin-top: 20px;
+
+}
+
+.brands {
+  display: inline-block;
+  text-align: center;
+}
+
+.brand-img {
+  width: 10%;
+  height: auto;
+  margin: 20px;
+  border-radius: 10%;
+  border: solid;
+  background-color: white;
+}
+
+main{
+  margin: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'League Gothic', sans-serif;
+}
+
+.bs-nike-img, .yeezy-img, .yeezy-video{
+  width: 45%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  font-family: 'Roboto Condensed', 'League Gothic', sans-serif;
+  text-align: center;
+  justify-content: center;
+  padding: 5px;
+  background-color: #212529;
+  color: white;
+  margin-top: 20px;
+}
+
+.content {
+  color: white;
+  text-decoration: none;
+}
+
+.p1, .p2 {
+  margin: 20px;
+}
+
+.text-center {
+  margin-top: 20px;
+  font-family: 'Jockey One', 'Roboto Condensed', 'League Gothic', sans-serif;
+}
+
+.new-page-body {
+  background: linear-gradient(110deg, #212529 20%, #57837B 20%), linear-gradient(110deg, #57837B 66%, #212529 66%);
+}
+
+.sale-page-body {
+    background: -webkit-linear-gradient(110deg, #212529 33%, #696969 33%), -webkit-linear-gradient(110deg, #212529 66%, #696969 66%);
+}
+
+.middle-line {
+  text-decoration-line: line-through;
+  color: #73777B
+}
+
+.Wrap-form{
+  overflow: auto; margin-bottom: 1%;
+}
+
+.lbl1{
+  float:left;width: 35%;
+  float: left;
+}
+
+.txt{
+  float: right;
+  width: 60%;
+  background-color: white;
+}
+
+#btn{
+  margin: 20px;
+  border-radius: 7px;
+  border: none;
+  background-color: #212529;
+  color: white;
+  padding: 5px;
+}
+
+.btn-primary {
+  margin: auto;
+  text-align: center;
+  display: block;
+  border-radius: 7px;
+  border: none;
+  background-color: #212529;
+  color: white;
+  padding: 5px;
+}
+
+form {
+  margin: auto;
+  width: 75%;
+}
+
+.yeezy-video{
+  margin-top: 20px;
+}
+
+.form-group {
+  font-weight: bold;
+}
