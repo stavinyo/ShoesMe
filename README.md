@@ -10,6 +10,8 @@ Please note that this website is a demo and is not updated in real time. The inf
 
 One unique feature of our site is the shoe lottery page, which allows users to register for a chance to win a free pair of shoes. To participate, users simply fill out a form and submit it to our secure cPanel server.
 
+Link - http://itaype.mtacloud.co.il/
+
 Thank you for visiting!
 
 **Screens**
